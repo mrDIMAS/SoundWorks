@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="C:\Users\mrDIMAS\Desktop\SoundWorks\projects\sndwrk.workspace">
+  <int Value="7" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\projects\sndwrk.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\swtest\swtest.c" Name="FileName"/>
+      <int Value="475" Name="FirstVisibleLine"/>
+      <int Value="490" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\decoder.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="24" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\hrtfgen\hrtfgen.c" Name="FileName"/>
+      <int Value="135" Name="FirstVisibleLine"/>
+      <int Value="40" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\aabb.c" Name="FileName"/>
+      <int Value="100" Name="FirstVisibleLine"/>
+      <int Value="20" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\decoder_ogg.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="55" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\decoder_ogg.h" Name="FileName"/>
+      <int Value="20" Name="FirstVisibleLine"/>
+      <int Value="20" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\device.h" Name="FileName"/>
+      <int Value="55" Name="FirstVisibleLine"/>
+      <int Value="61" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\memory.c" Name="FileName"/>
+      <int Value="21" Name="FirstVisibleLine"/>
+      <int Value="55" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\octree.c" Name="FileName"/>
+      <int Value="135" Name="FirstVisibleLine"/>
+      <int Value="20" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\sndwrk.h" Name="FileName"/>
+      <int Value="745" Name="FirstVisibleLine"/>
+      <int Value="81" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\mixer.c" Name="FileName"/>
+      <int Value="74" Name="FirstVisibleLine"/>
+      <int Value="68" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\device.c" Name="FileName"/>
+      <int Value="17" Name="FirstVisibleLine"/>
+      <int Value="51" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\vec3.c" Name="FileName"/>
+      <int Value="175" Name="FirstVisibleLine"/>
+      <int Value="76" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\sound.c" Name="FileName"/>
+      <int Value="370" Name="FirstVisibleLine"/>
+      <int Value="20" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\mrDIMAS\Desktop\SoundWorks\src\buffer.c" Name="FileName"/>
+      <int Value="138" Name="FirstVisibleLine"/>
+      <int Value="204" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>

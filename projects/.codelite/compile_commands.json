@@ -1,0 +1,9 @@
+[{
+  "directory": "C:\\Users\\mrDIMAS\\Desktop\\SoundWorks\\projects",
+  "command": "C:/MinGW/bin/gcc.exe -g -shared -O3 -Wall -pedantic -ansi -DNDEBUG -I. -I. -I../thirdparty/SDL2/include/ -I../ -MG -MP -MT./sndwrk/Release/up_src_memory.c.o -MF./sndwrk/Release/up_src_memory.c.o.d -MM ../src/memory.c",
+  "file": "C:\\Users\\mrDIMAS\\Desktop\\SoundWorks\\projects\\..\\src\\memory.c"
+ }, {
+  "directory": "C:\\Users\\mrDIMAS\\Desktop\\SoundWorks\\projects",
+  "command": "C:/MinGW/bin/gcc.exe -c C:/Users/mrDIMAS/Desktop/SoundWorks/src/memory.c -g -shared -O3 -Wall -pedantic -ansi -DNDEBUG -o ./sndwrk/Release/up_src_memory.c.o -I. -I. -I../thirdparty/SDL2/include/ -I../",
+  "file": "C:\\Users\\mrDIMAS\\Desktop\\SoundWorks\\src\\memory.c"
+ }]

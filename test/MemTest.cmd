@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Dr. Memory\bin64\drmemory.exe" sndwrk.exe

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="sndwrk" Database="" Version="10.0.0">
+  <Project Name="sndwrk" Path="sndwrk.project" Active="No"/>
+  <Project Name="hrtf" Path="hrtf.project" Active="No"/>
+  <Project Name="swtest" Path="swtest.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Environment/>
+      <Project Name="sndwrk" ConfigName="Debug"/>
+      <Project Name="hrtf" ConfigName="Debug"/>
+      <Project Name="swtest" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="sndwrk" ConfigName="Release"/>
+      <Project Name="hrtf" ConfigName="Release"/>
+      <Project Name="swtest" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
